@@ -5,11 +5,17 @@ public class Demo {
 		
 		System.out.println("done github topic");
 
-
+}
 		public void m1()
 			{
 			System.out.println("update on github site");
-		}
+		
 	}
+	public void m2()
+			{
+			System.out.println("update 2nd time");
+		
+	}
+
 
 }
